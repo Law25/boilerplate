@@ -78,7 +78,61 @@ live. The original NSFNET backbone to decommissioned as the Internet's transform
  tv.com for $15,000
  -A 3D animation dubbed "The Dancing Baby' becomes one of the first viral videos
  
- 23.
+ 23. 1997-Netflix is founded by Reed Hastings and March Randolph as a company that sends users DVDs by mail
+-Pc makes can remove or hide Microsoft's Internet software on new versions of Windows 95, thanks to a settlement with
+ the Justice Department Netscape announces that its browser will be free
+ 
+ 24. 1998- The google search engine is born, changing the way users engage with that internet
+ 
+ 25. 1999-AOL buys Netscape. Peer-to-peer file sharing becomes a reality as Napster arrives on the Internet, much to 
+ the displeasure of the music industry
+ 
+ 26. 2000-The dot.com bubble bursts. Web sites such as Yahoo! And eBay are hit by a large-scale denial of service
+ attacks, highlighting the vulnerability of the internet. AOL merges with Time Warner
+ 
+ 27. 2001-A federal judge shuts down Napster arrives on the internet, much to the displeasure of the music industry
+ 
+ 28. 2003-The SQL slammer worm spread worldwide in just 10 minutes. Myspace, Skype and the Safari Web browser debut
+ -The blob publishing the platform WordPress is launched
+
+ 29. 2004-Facebook goes online and the era of social networking begins. Mozilla unveils the Mozilla Firefox browser
+ 
+ 30. 2005-YouTube.com launches. The social news site reddit is also founded
+ 
+ 31. 2006-AOL changes its business model, offering most services for free and relying on advertising to generate
+ revenue. The Internet Governance Forum meets for the first time
+ 
+ 32. 2009-The internet marks its 40th anniversary
+ 
+ 33. 2010-Facebook reaches 400 million active users
+ 
+ 34. 2011- twitter and Facebook play a large role in the Middle East revolts
+ 
+ 35. 2012-President Barack Obama's administration announces its opposition to major parts of the Stop Online Piracy Act
+and Protest Intellectual Property Act, which would have enacted broad new rules requiring internet service providers to
+police copyrighted content. The successful push to stop the bill, involving technology companies such as Google and 
+nonprofit organizations including Wikipedia and the Electronic Frontier Foundation, is considered a victory for sites 
+such as YouTube that depend on user-generated content, as well as "fair  use" on the Internet
+
+36. 2013- Edward Snowden, a former CIA employee and National Security Agency (NSA) contractor, reveals that the NSA had 
+in place a monitoring program capable of tapping the communications of thousands of people, including U.S. Citizens
+
+37. 2015-Instagram, the photo-sharing site, reaches 400million users, outpacing Twitter, which would go on to reach 316 
+million users by the middle of the same year
+
+38. 2016-	2016- George  unveils Google Assistant, a voice-activated personal assistant programing, marking the entry of 
+the Internet giant into the "smart" computerized assistant marketplace. Google joins Amazon's Alexa, Siri from the Apple
+, and Cortona from Microsoft
+
+
+
+
+
+
+
+
+
+
 
 
 
