@@ -63,3 +63,6 @@ establishing the SRI system crashed
 - tile-wide.png helps compress image's to a certain size
 
 - tile.png converts the jpeg to 8-bit png and also minimize the storage size
+
+
+#Tutorial
