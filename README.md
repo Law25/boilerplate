@@ -8,7 +8,7 @@ by performing calculations remotely on the CNC using a teletype terminal connect
 ARPANET contract 
 
 3.-1969- On Oct 29, UCLA'S Network Management center, Stanford research  institute(SRI), University of California-Santa 
-Barbara and Univesity of Utah install nodes. The first message is "LO", which was an attempt by student Charles Kline to
+Barbara and University of Utah install nodes. The first message is "LO", which was an attempt by student Charles Kline to
 "LOGIN" to the SRI computer from the University. However the message was unable to be completed because the SRI system 
 crashed 
 
@@ -20,7 +20,7 @@ establishing the SRI system crashed
  
  6. 1974- The first Internet Service(ISP) is born with the introduction of a commerical version of ARPANET, known as 
  telnet
- -VIncton Cerf and Bobo Kahn(The duo said by mant to be the fathers of the internet, publish) "A protocol for Packet
+ -Vincton Cerf and Bobo Kahn(The duo said by many to be the fathers of the internet, publish) "A protocol for Packet
  Network Interconnection", which details the design of TCP
  
  7.1976- Queen Elizabeth II hits the "send button" on her first email 
@@ -97,7 +97,7 @@ live. The original NSFNET backbone to decommissioned as the Internet's transform
 
  29. 2004-Facebook goes online and the era of social networking begins. Mozilla unveils the Mozilla Firefox browser
  
- 30. 2005-YouTube.com launches. The social news site reddit is also founded
+ 30. 2005-YouTube.com launches. The social news site Reddit is also founded
  
  31. 2006-AOL changes its business model, offering most services for free and relying on advertising to generate
  revenue. The Internet Governance Forum meets for the first time
