@@ -55,6 +55,7 @@ establishing the SRI system crashed
 - icon.png is based on pixels so you cant upscale without losing quailty so you have to pick the size you need but you can downsize
 
 - index.html The index page is the URL or local file that automatically loads when a web browser starts and when the browser's 'home' button is pressed. The term is also used to refer to the front page, web server directory index, or main web page of a website of a group, company, organization, or individual.
+Inside this file as I was reading the code I saw a couple lines that were commented out meaning they wont show once you run the code and Once I ran the code all it reads is Hello world! This is HTML5 Boilerplate. Even though 21 lines through 23 were supposed to run a command it didnt the only command that ran was the print command leaveing the other commands I can only assume for us to comppleate in future assignments.
 
 - robot.txt , is a standard used by websites to communicate with web crawlers and other web robots. The standard specifies how to inform the web robot about which areas of the website should not be processed or scanned.
 
