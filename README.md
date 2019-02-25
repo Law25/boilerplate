@@ -12,3 +12,4 @@ by performing caluclations remotely on the CNC using a teletype terminal connect
 
 - gitignore ,Git uses it to determine which files and directories to ignore, before you make a commit.A gitignore file should be committed into your repository, in order to share the ignore rules with any other users that clone the repository.
 
+- 404.html is a Hypertext Transfer Protocol (HTTP) standard response code, in computer network communications, to indicate that the client was able to communicate with a given server, but the server could not find what was requested.
