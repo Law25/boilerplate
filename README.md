@@ -194,15 +194,15 @@ Inside this file as I was reading the code I saw a couple lines that were commen
 pull request is opened, you can discuss and review the potential changes with collaborators and add follow- up commits 
 before your changes are merged into the base branch.
 
--Branch: A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or master branch allowing you to work freely without disrupting the "live" version. When you've made the changes you want to make you can merge your branch into the master branch to publish your changes.
+- Branch: A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or master branch allowing you to work freely without disrupting the "live" version. When you've made the changes you want to make you can merge your branch into the master branch to publish your changes.
 
--Merge: Merging takes the changes from one branch, and applies them into another. This often happens as a pull request, or via the command line. A merge can automatically via a pull request via the GitHub web interface if there are no conflicting changes, or can  always be done via the command line.
+- Merge: Merging takes the changes from one branch, and applies them into another. This often happens as a pull request, or via the command line. A merge can automatically via a pull request via the GitHub web interface if there are no conflicting changes, or can  always be done via the command line.
 
--Merge Conflict: Merge conflicts happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge.
+- Merge Conflict: Merge conflicts happen when you merge branches that have competing commits, and Git needs your help to decide which changes to incorporate in the final merge.
 
--Fetch: Fetching refers to getting the latest change from an online repository without merging them in. Once these changes are fetch you can compare to your local branches.
+- Fetch: Fetching refers to getting the latest change from an online repository without merging them in. Once these changes are fetch you can compare to your local branches.
 
--Remote: A remote in Git is a common repository that all team members use to exchange their changes. In most cases, such a remote is stored on a code hosting service like GitHUb or an internal server 
+- Remote: A remote in Git is a common repository that all team members use to exchange their changes. In most cases, such a remote is stored on a code hosting service like GitHUb or an internal server 
                             
                                  
                                 
