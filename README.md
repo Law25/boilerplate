@@ -68,3 +68,21 @@ establishing the SRI system crashed
 # Tutorial
  
  - Git is a distributed version-control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows.
+
+- Step 0: Install git https://git-scm.com/downloads and create a GitHub account at https://desktop.github.com/
+
+- Github is  is a Git repository hosting service, but it adds many of its own features. While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features
+
+- Step 1: Create a repository by Go into the directory containing the project.
+                                 Type git init .
+                                 Type git add to add all of the relevant files.
+                                 You'll probably want to create a .gitignore file right away, to indicate all of the files you don't want to track. Use  gitignore. And then hit commit.
+                                 
+- Clone, Cloning a git repository means that you create a local copy of the code provided by developer. You simply go on your github seek the project and hit clone then you go to your webstorm and paste it in and now you can access the files.
+
+- Commit is a change to a file you can commit by looking at your screen on the top left hand corner and once you find the VCS click on it and look for the git tab and once opened the commit option will be there click on it and write a small message on what you are commiting.
+
+- push what pushing does is  it refers to sending your committed changes to a remote repository. So once you commited follow the same steps VCS the Git and instead of clicking on commit the option under it will be push hit it and it will ask you what branch click on the one you want it to upload to to and wait to see if the push was successful.
+                            
+                                 
+                                
