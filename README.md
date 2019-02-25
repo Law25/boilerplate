@@ -189,6 +189,13 @@ Inside this file as I was reading the code I saw a couple lines that were commen
 - Commit is a change to a file you can commit by looking at your screen on the top left hand corner and once you find the VCS click on it and look for the git tab and once opened the commit option will be there click on it and write a small message on what you are commiting.
 
 - push what pushing does is  it refers to sending your committed changes to a remote repository. So once you commited follow the same steps VCS the Git and instead of clicking on commit the option under it will be push hit it and it will ask you what branch click on the one you want it to upload to to and wait to see if the push was successful.
+
+- pull : pull requests let you tell others about changes you've pushed to a branch in a repository on GitHub. Once a 
+pull request is opened, you can discuss and review the potential changes with collaborators and add follow- up commits 
+before your changes are merged into the base branch.
+
+-Branch: A branch is a parallel version of a repository. It is contained within the repository, but does not affect the primary or master branch allowing you to work freely without disrupting the "live" verison. When you've made the changes you want to makee you can merge your branch into the master branch to publish your changes.
+
                             
                                  
                                 
