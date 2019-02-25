@@ -45,3 +45,21 @@ establishing the SRI system crashed
 - gitignore ,Git uses it to determine which files and directories to ignore, before you make a commit.A gitignore file should be committed into your repository, in order to share the ignore rules with any other users that clone the repository.
 
 - 404.html is a Hypertext Transfer Protocol (HTTP) standard response code, in computer network communications, to indicate that the client was able to communicate with a given server, but the server could not find what was requested.
+
+- browserconfig.xml is used to define things like tile backgrounds, badge updates, and tile notifications. Browser configuration files let you set these images using external XML files rather than metadata within the HTML markup of a webpage
+
+- favicon.ico is a small, iconic image that represents your website. Favicons are most often found in the address bar of your web browser, but they can also be used in lists of bookmarks in web browsers 
+ 
+- human.txt It's a txt file that contains information about the different people who have contributed to building the website.
+
+- icon.png is based on pixels so you cant upscale without losing quailty so you have to pick the size you need but you can downsize
+
+- index.html The index page is the URL or local file that automatically loads when a web browser starts and when the browser's 'home' button is pressed. The term is also used to refer to the front page, web server directory index, or main web page of a website of a group, company, organization, or individual.
+
+- robot.txt , is a standard used by websites to communicate with web crawlers and other web robots. The standard specifies how to inform the web robot about which areas of the website should not be processed or scanned.
+
+- site.manifest Removes "display": "standalone" from manifest
+
+- tile-wide.png helps compress image's to a certain size
+
+- tile.png converts the jpeg to 8-bit png and also minimize the storage size
